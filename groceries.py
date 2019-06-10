@@ -34,7 +34,5 @@ for p in products:
     price_usd = "${0:.2f}".format (p["price"])
     print("+ " + p["name"] + " (" + str(price_usd) + ")")
 
-
-
-
+#40 min on youtube vid
 
